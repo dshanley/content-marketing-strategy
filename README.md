@@ -12,3 +12,6 @@ The helpful and in progress list of how to do content marketing and great conten
 
 # How to do make SEO work for Content Marketing
 * [How to build content for every stage of the funnel](https://www.yesoptimist.com/saas-seo-strategy/)
+
+# How to organize all your marketing and sales content
+* [Marketing-driven sales enablement with Content Camel](https://contentcamel.io)
