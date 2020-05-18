@@ -16,3 +16,15 @@ The helpful and in progress list of how to do content marketing and great conten
 
 # How to organize all your marketing and sales content
 * [Marketing-driven sales enablement with Content Camel](https://contentcamel.io)
+
+# Great examples of Competitor Landing Pages
+# Alternative to, This vs That, Comparative Marketing
+* [Strategy: The Intercom Approach to Comparative Marketing](https://www.intercom.com/blog/videos/comparative-marketing/)
+* [Zendesk vs Freshdesk](https://freshdesk.com/compare-helpdesks/zendesk-vs-freshdesk)
+* [Zendesk vs Desk](https://www.zendesk.com/zendesk-vs-desk/)
+* [Slack Alternative: Twist](https://twist.com/slack-alternative?lang=en)
+* [Asana vs Monday](https://asana.com/go/asana-vs-monday-compare)
+* [Wrike vs Monday](https://try.wrike.com/wrike-vs-monday/)
+* [Showpad Alternative: Highspot](https://www.highspot.com/showpad-alternatives/)
+* [Monday Alternative: Hive](https://hive.com/compare/monday-alternative/)
+* [Salesforce vs Pipedrive](https://www.pipedrive.com/en/crm-software-comparison/salesforce-vs-pipedrive)
