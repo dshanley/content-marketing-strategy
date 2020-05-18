@@ -17,6 +17,10 @@ The helpful and in progress list of how to do content marketing and great conten
 # How to organize all your marketing and sales content
 * [Marketing-driven sales enablement with Content Camel](https://contentcamel.io)
 
+# Messaging and Messaging Strategy
+* [How to create a consistent marketing message](https://www.contentcamel.io/blog/how-to-create-a-consistent-marketing-message)
+* [The best product messaging / product marketing template](https://www.contentcamel.io/blog/the-best-product-messaging-template)
+
 # Great examples of Competitor Landing Pages
 First, an example of comparative marketing strategy from Intercom:
 * [Strategy: The Intercom Approach to Comparative Marketing](https://www.intercom.com/blog/videos/comparative-marketing/)
