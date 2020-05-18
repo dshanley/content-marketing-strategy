@@ -18,7 +18,7 @@ The helpful and in progress list of how to do content marketing and great conten
 * [Marketing-driven sales enablement with Content Camel](https://contentcamel.io)
 
 # Great examples of Competitor Landing Pages
-# Alternative to, This vs That, Comparative Marketing
+## Alternative to, This vs That, Comparative Marketing
 * [Strategy: The Intercom Approach to Comparative Marketing](https://www.intercom.com/blog/videos/comparative-marketing/)
 * [Zendesk vs Freshdesk](https://freshdesk.com/compare-helpdesks/zendesk-vs-freshdesk)
 * [Zendesk vs Desk](https://www.zendesk.com/zendesk-vs-desk/)
