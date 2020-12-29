@@ -26,10 +26,10 @@ Bonus: [Quicksprout content marketing lessons learned](https://www.quicksprout.c
 * [Backlinko's content strategy with backlinks](https://backlinko.com/hub/content/content-strategy)
 
 # How to organize all your marketing and sales content
-* [Marketing-driven sales enablement with Content Camel](https://contentcamel.io)
+* [Content Camel](https://contentcamel.io) sales enablement
 
 # Messaging and Messaging Strategy
-* [How to create a consistent marketing message](https://www.contentcamel.io/blog/how-to-create-a-consistent-marketing-message)
+* [How to create a buyer persona](https://www.contentcamel.io/blog/how-to-create-a-persona-template/)
 * [The best product messaging / product marketing template](https://www.contentcamel.io/blog/the-best-product-messaging-template)
 
 # How to Measure Content Marketing
