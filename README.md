@@ -24,6 +24,7 @@ Bonus: [Quicksprout content marketing lessons learned](https://www.quicksprout.c
 # How to do make SEO work for Content Marketing
 * [How to build content for every stage of the funnel](https://www.yesoptimist.com/saas-seo-strategy/)
 * [Backlinko's content strategy with backlinks](https://backlinko.com/hub/content/content-strategy)
+* [FollowerKaufen.ch TikTok SEO guide (German, Switzerland)](https://followerkaufen.ch/guides/tiktok-seo-creator-search-insights) - A search-question-to-video workflow with regional feature checks and comparable observation periods.
 
 # How to organize all your marketing and sales content
 * [Content Camel](https://contentcamel.io) sales enablement
